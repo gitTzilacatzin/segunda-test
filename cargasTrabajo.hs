@@ -1,0 +1,1 @@
+contador c = or[(x)>x[]|x <- c]
