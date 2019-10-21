@@ -1,1 +1,1 @@
-//Esto es un comentario
+hello = putStrLn "Hola GitHub"
